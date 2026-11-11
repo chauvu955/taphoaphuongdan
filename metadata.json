@@ -1,0 +1,6 @@
+{
+  "name": "GroceryPro POS - Quản Lý Bán Hàng Tạp Hóa",
+  "description": "Phần mềm quản lý bán hàng tạp hóa POS offline chuyên nghiệp phong cách KiotViet: bán hàng nhanh, quản lý kho, công nợ, thu chi, in hóa đơn nhiệt và sao lưu an toàn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
